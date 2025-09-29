@@ -1,0 +1,210 @@
+title,mm:ss,cumulative_hours,hours_left_after_current,%
+01. Terminology (1),33:43,0.562,109.179,0.51%
+02A. Chart Basics and Price Action (2),29:18,1.05,108.691,0.96%
+02B. Chart Basics and Price Action (3),32:29,1.592,108.149,1.45%
+02C. Chart Basics and Price Action (4),24:27,1.999,107.742,1.82%
+02D. Chart Basics and Price Action (5),28:31,2.474,107.266,2.25%
+03A. Forex Basics (6),17:38,2.768,106.973,2.52%
+03B. Forex Basics (7),15:24,3.025,106.716,2.76%
+03C. Forex Basics (8),13:49,3.255,106.486,2.97%
+03D. Forex Basics (9),16:47,3.535,106.206,3.22%
+03E. Forex Basics (10),10:50,3.716,106.025,3.39%
+04. My Setup (11),06:58,3.832,105.909,3.49%
+05. Program Trading (12),32:11,4.368,105.373,3.98%
+06. Personality Traits of Succesful Traders (13),26:31,4.81,104.931,4.38%
+07A. Starting Out (14),34:44,5.389,104.352,4.91%
+07B. Starting Out (15),18:43,5.701,104.04,5.19%
+"08A. Candles, Setups and Signal Bars (16)",37:55,6.333,103.408,5.77%
+"08B. Candles, Setups and Signal Bars (17)",30:52,6.847,102.894,6.24%
+"08C. Candles, Setups and Signal Bars (18)",35:08,7.433,102.308,6.77%
+"08D. Candles, Setups and Signal Bars (19)",34:08,8.002,101.739,7.29%
+09A. Pullbacks and Bar Counting (20),49:52,8.833,100.908,8.05%
+09B. Pullbacks and Bar Counting (21),31:39,9.36,100.381,8.53%
+09C. Pullbacks and Bar Counting (22),19:04,9.678,100.063,8.82%
+10A. Buying and Selling Pressure (23),17:42,9.973,99.768,9.09%
+10B. Buying and Selling Pressure (24),10:55,10.155,99.586,9.25%
+11A. Gaps (25),32:23,10.695,99.046,9.75%
+11B. Gaps (26),34:30,11.27,98.471,10.27%
+11C. Gaps (27),25:52,11.701,98.04,10.66%
+11D. Gaps (28),16:23,11.974,97.767,10.91%
+12A. Market Cycle (29),43:29,12.698,97.043,11.57%
+12B. Market Cycle (30),27:50,13.162,96.579,11.99%
+12C. Market Cycle (31),19:48,13.492,96.249,12.29%
+13A. Always In (32),23:46,13.889,95.852,12.66%
+13B. Always In (33),25:19,14.311,95.43,13.04%
+13C. Always In (34),18:43,14.623,95.118,13.33%
+14A. Trends (35),27:07,15.075,94.666,13.74%
+14B. Trends (36),28:38,15.552,94.189,14.17%
+14C. Trends (37),24:59,15.968,93.773,14.55%
+14D. Trends (38),31:28,16.493,93.248,15.03%
+14E. Trends (39),32:52,17.041,92.7,15.53%
+15A. Breakouts (40),30:24,17.547,92.193,15.99%
+15B. Breakouts (41),26:34,17.99,91.751,16.39%
+15C. Breakouts (42),36:45,18.603,91.138,16.95%
+15D. Breakouts (43),27:08,19.055,90.686,17.36%
+15E. Breakouts (44),34:14,19.626,90.115,17.88%
+15F. Breakouts (45),19:37,19.953,89.788,18.18%
+15G. Breakouts (46),27:23,20.409,89.332,18.60%
+15H. Breakouts (47),42:41,21.12,88.621,19.25%
+16A. Channels (48),42:30,21.829,87.912,19.89%
+16B. Channels (49),38:46,22.475,87.266,20.48%
+16C. Channels (50),30:29,22.983,86.758,20.94%
+16D. Channels (51),28:05,23.451,86.29,21.37%
+16E. Channels (52),40:00,24.118,85.623,21.98%
+16F. Channels (53),35:40,24.712,85.029,22.52%
+17A. Tight Channels & Micro Channels (54),17:10,24.998,84.743,22.78%
+17B. Tight Channels & Micro Channels (55),39:41,25.66,84.081,23.38%
+18A. Trading Ranges (56),36:33,26.269,83.472,23.94%
+18B. Trading Ranges (57),26:19,26.707,83.033,24.34%
+18C. Trading Ranges (58),43:47,27.437,82.304,25.00%
+18D. Trading Ranges (59),30:12,27.941,81.8,25.46%
+18E. Trading Ranges (60),34:20,28.513,81.228,25.98%
+18F. Trading Ranges (61),21:03,28.864,80.877,26.30%
+19A. Support and Resistance (62),30:35,29.373,80.368,26.77%
+19B. Support and Resistance (63),31:52,29.905,79.836,27.25%
+19C. Support and Resistance (64),24:01,30.305,79.436,27.62%
+19D. Support and Resistance (65),26:17,30.743,78.998,28.01%
+19E. Support and Resistance (66),23:58,31.142,78.599,28.38%
+20A. Measured Moves (67),27:54,31.607,78.134,28.80%
+20B. Measured Moves (68),17:21,31.896,77.845,29.06%
+21A. Reversals (69),32:31,32.438,77.303,29.56%
+21B. Reversals (70),30:56,32.954,76.787,30.03%
+21C. Reversals (71),28:46,33.433,76.308,30.47%
+21D. Reversals (72),32:40,33.978,75.763,30.96%
+22A. Major Trend Reversals (73),38:27,34.619,75.122,31.55%
+22B. Major Trend Reversals (74),25:25,35.042,74.699,31.93%
+22C. Major Trend Reversals (75),24:30,35.451,74.29,32.30%
+22D. Major Trend Reversals (76),30:49,35.964,73.777,32.77%
+23A. Final Flags (77),20:15,36.302,73.439,33.08%
+23B. Final Flags (78),27:26,36.759,72.982,33.50%
+24A. Wedges (79),32:10,37.295,72.446,33.98%
+24B. Wedges (80),31:54,37.827,71.914,34.47%
+24C. Wedges (81),23:13,38.213,71.527,34.82%
+24D. Wedges (82),39:55,38.879,70.862,35.43%
+24E. Wedges (83),15:45,39.141,70.6,35.67%
+25A. Double Tops and Bottoms (84),40:22,39.814,69.927,36.28%
+25B. Double Tops and Bottoms (85),32:54,40.362,69.379,36.78%
+26A. Triangles (86),32:54,40.911,68.83,37.28%
+26B. Triangles (87),19:52,41.242,68.499,37.58%
+27A. Head and Shoulders (88),29:35,41.735,68.006,38.03%
+27B. Head and Shoulders (89),31:50,42.265,67.476,38.51%
+28. Rounded Tops and Bottoms (90),22:56,42.647,67.093,38.86%
+29A. Climaxes (91),44:16,43.385,66.356,39.53%
+29B. Climaxes (92),17:56,43.684,66.057,39.81%
+29C. Climaxes (93),42:23,44.391,65.35,40.45%
+29D. Climaxes (94),33:18,44.946,64.795,40.96%
+29E. Climaxes (95),24:48,45.359,64.382,41.33%
+30A. Trader’s Equation and Probability (96),26:54,45.807,63.934,41.74%
+30B. Trader’s Equation and Probability (97),37:23,46.43,63.311,42.31%
+30C. Trader’s Equation and Probability (98),39:34,47.09,62.651,42.91%
+30D. Trader’s Equation and Probability (99),27:30,47.548,62.193,43.33%
+30E. Trader’s Equation and Probability (100),36:44,48.16,61.581,43.89%
+31A. Swing Trading and Scalping (101),52:49,49.041,60.7,44.69%
+31B. Swing Trading and Scalping (102),22:48,49.42,60.32,45.03%
+31C. Swing Trading and Scalping (103),32:37,49.964,59.777,45.53%
+31D. Swing Trading and Scalping (104),36:23,50.57,59.171,46.08%
+32A. Orders (105),38:27,51.211,58.53,46.67%
+32B. Orders (106),28:07,51.68,58.061,47.09%
+32C. Orders (107),27:46,52.142,57.598,47.51%
+33A. Protective Stops (108),30:47,52.656,57.085,47.98%
+33B. Protective Stops (109),18:45,52.968,56.773,48.27%
+33C. Protective Stops (110),38:07,53.604,56.137,48.85%
+33D. Protective Stops (111),35:18,54.192,55.549,49.38%
+33E. Protective Stops (112),29:06,54.677,55.064,49.82%
+33F. Protective Stops (113),30:01,55.177,54.564,50.28%
+33G. Protective Stops (114),36:48,55.79,53.951,50.84%
+34A. Actual Risk (115),23:01,56.174,53.567,51.19%
+34B. Actual Risk (116),31:52,56.705,53.036,51.67%
+35A. Scaling In (117),42:10,57.408,52.333,52.31%
+35B. Scaling In (118),22:05,57.776,51.965,52.65%
+35C. Scaling In (119),30:25,58.283,51.458,53.11%
+36A. Trade Management and Taking Profits (120),21:28,58.641,51.1,53.44%
+36B. Trade Management and Taking Profits (121),23:31,59.032,50.708,53.79%
+37A. How to Trade (122),43:45,59.762,49.979,54.46%
+37B. How to Trade (123),49:00,60.578,49.163,55.20%
+38A. Trading MTR Tops (124),24:55,60.993,48.748,55.58%
+38B. Trading MTR Tops (125),24:11,61.397,48.344,55.95%
+38C. Trading MTR Tops (126),36:01,61.997,47.744,56.49%
+38D. Trading MTR Tops (127),26:26,62.437,47.304,56.89%
+39A. Trading MTR Bottoms (128),18:45,62.75,46.991,57.18%
+39B. Trading MTR Bottoms (129),32:21,63.289,46.452,57.67%
+39C. Trading MTR Bottoms (130),26:00,63.722,46.019,58.07%
+39D. Trading MTR Bottoms (131),29:52,64.22,45.521,58.52%
+40A. Entering Late in Trends (132),25:54,64.652,45.089,58.91%
+40B. Entering Late in Trends (133),21:38,65.012,44.729,59.24%
+40C. Entering Late in Trends (134),20:35,65.355,44.386,59.55%
+40D. Entering Late in Trends (135),22:26,65.729,44.012,59.89%
+40E. Entering Late in Trends (136),25:38,66.157,43.584,60.28%
+41A. Trading Breakouts (137),55:52,67.088,42.653,61.13%
+41B. Trading Breakouts (138),41:22,67.777,41.964,61.76%
+41C. Trading Breakouts (139),29:50,68.274,41.467,62.21%
+41D. Trading Breakouts (140),31:38,68.802,40.939,62.69%
+42A. Trading Climactic Reversals (Failed Breakouts) (141),42:45,69.514,40.227,63.34%
+42B. Trading Climactic Reversals (Failed Breakouts) (142),39:35,70.174,39.567,63.95%
+42C. Trading Climactic Reversals (Failed Breakouts) (143),48:47,70.987,38.754,64.69%
+43A. Trading Tight Bull Channels (144),39:34,71.646,38.095,65.29%
+43B. Trading Tight Bull Channels (145),23:00,72.03,37.711,65.64%
+43C. Trading Tight Bull Channels (146),36:00,72.63,37.111,66.18%
+43D. Trading Tight Bull Channels (147),43:48,73.359,36.381,66.85%
+44A. Trading Tight Bear Channels (148),39:58,74.026,35.715,67.46%
+44B. Trading Tight Bear Channels (149),27:01,74.476,35.265,67.87%
+44C. Trading Tight Bear Channels (150),34:33,75.052,34.689,68.39%
+44D. Trading Tight Bear Channels (151),44:04,75.786,33.955,69.06%
+45A. Trading Broad Bull Channels (152),30:06,76.288,33.453,69.52%
+45B. Trading Broad Bull Channels (153),21:58,76.654,33.087,69.85%
+45C. Trading Broad Bull Channels (154),37:06,77.273,32.468,70.41%
+45D. Trading Broad Bull Channels (155),42:47,77.985,31.755,71.06%
+45E. Trading Broad Bull Channels (156),29:10,78.471,31.269,71.51%
+46A. Trading Broad Bear Channels (157),39:30,79.13,30.611,72.11%
+46B. Trading Broad Bear Channels (158),25:38,79.557,30.184,72.50%
+46C. Trading Broad Bear Channels (159),23:28,79.948,29.793,72.85%
+46D. Trading Broad Bear Channels (160),45:54,80.713,29.028,73.55%
+46E. Trading Broad Bear Channels (161),29:28,81.204,28.537,74.00%
+47A. Trading in Trading Ranges (162),36:28,81.812,27.929,74.55%
+47B. Trading in Trading Ranges (163),31:07,82.33,27.411,75.02%
+47C. Trading in Trading Ranges (164),39:18,82.985,26.756,75.62%
+47D. Trading in Trading Ranges (165),32:25,83.525,26.216,76.11%
+48A. Trading the Open (166),44:53,84.273,25.467,76.79%
+48B. Trading the Open (167),30:55,84.789,24.952,77.26%
+48C. Trading the Open (168),29:49,85.286,24.455,77.72%
+48D. Trading the Open (169),37:15,85.907,23.834,78.28%
+48E. Trading the Open (170),23:10,86.293,23.448,78.63%
+48F. Trading the Open (171),27:15,86.747,22.994,79.05%
+48G. Trading the Middle of the Day (172),38:48,87.393,22.348,79.64%
+48H. Trading the Middle of the Day (173),23:33,87.786,21.955,79.99%
+48I. Trading the End of the Day (174),15:14,88.04,21.701,80.23%
+48J. Trading the End of the Day (175),22:42,88.418,21.323,80.57%
+48K. Trading the End of the Day (176),21:25,88.775,20.966,80.90%
+49A. Swing Trading Examples (177),49:59,89.608,20.133,81.65%
+49B. Swing Trading Examples (178),35:35,90.201,19.54,82.19%
+49C. Swing Trading Examples (179),34:37,90.778,18.963,82.72%
+49D. Swing Trading Examples (180),39:47,91.441,18.3,83.32%
+49E. Swing Trading Examples (181),42:42,92.153,17.588,83.97%
+49F. Swing Trading Examples (182),30:21,92.659,17.082,84.43%
+50A. Scalping (183),37:35,93.285,16.456,85.00%
+50B. Scalping (184),25:53,93.716,16.024,85.40%
+50C. Scalping (185),43:16,94.438,15.303,86.06%
+50D. Scalping (186),22:04,94.805,14.936,86.39%
+50E. Scalping (187),23:48,95.202,14.539,86.75%
+51A. Losing Because of Mistakes (188),24:52,95.616,14.125,87.13%
+51B. Losing Because of Mistakes (189),33:24,96.173,13.568,87.64%
+51C. Losing Because of Mistakes (190),22:50,96.554,13.187,87.98%
+51D. Losing Because of Mistakes (191),32:01,97.087,12.654,88.47%
+52A. Losing When Good Trade Goes Bad (192),27:39,97.548,12.193,88.89%
+52B. Losing When Good Trade Goes Bad (193),30:00,98.048,11.693,89.34%
+Bonus01. End of Day Traps (194),35:02,98.632,11.109,89.88%
+Bonus02. Trading Patterns on the Open (195),40:46,99.311,10.429,90.50%
+Bonus03. Trading the Final Hour (196),37:36,99.938,9.803,91.07%
+Bonus04. Trading Bear Channels (197),34:03,100.506,9.235,91.58%
+Bonus05. Trading Tight Trading Ranges on the Open (198),46:25,101.279,8.462,92.29%
+Bonus06. 3 Patterns Every Trader and Investor Should Know (199),62:48,102.326,7.415,93.24%
+Bonus07. Trading When Market Is in a Bull Channel (200),51:13,103.179,6.561,94.02%
+Bonus08. 5 Thoughts on Psychology – Part 1 (201),57:09,104.132,5.609,94.89%
+Bonus09. Scalping series: #01 Rules for Scalping (202),28:06,104.6,5.141,95.32%
+Bonus10. Scalping series: #02 Scalping 2-minute Emini Chart (203),46:04,105.368,4.373,96.02%
+Bonus11. Trading Options for Day Trades (204),48:20,106.174,3.567,96.75%
+Bonus12. Trading Options on Daily Charts (205),54:08,107.076,2.665,97.57%
+Bonus13. 5 Steps to Finding Today’s Trades (206),29:22,107.566,2.175,98.02%
+Bonus14. 10 Emini Scalps on 15-Second Chart (207),24:17,107.97,1.771,98.39%
+"Bonus15. ii, ioi, OO Patterns: Definitions (208)",44:12,108.707,1.034,99.06%
+"Bonus16. ii, ioi, OO Patterns: Examples (209)",62:02,109.741,0,100.00%
